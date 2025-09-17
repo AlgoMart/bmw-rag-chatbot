@@ -1,0 +1,9 @@
+*env
+**/__pycache__
+.vscode
+
+# Vector db
+chroma_db
+
+# Extras
+.DS_Store
